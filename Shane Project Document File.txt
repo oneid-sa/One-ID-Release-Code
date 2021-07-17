@@ -1,0 +1,19 @@
+Following Some File:-
+
+Step 1:- Download All File and paste in same folder.
+Step 2:- Unzip All Folder in same folder.
+Step 3:- After Unzip folder then show all Project 
+	3a:- BSD Project means CRM Project
+	3b:- dotnet Project:-Web Api Project
+	3c:- PhotoMetrixApi :-This is PhotoMetrix Project
+
+
+CRM Project :- 
+	Link:-https://secure.oneid.digital/
+	UserName:-Shane
+	Password:-shane@135
+
+dotnet Project :- 
+	Base Api Link:- https://secure.oneid.digital/identity/
+
+PhotoMetric Project:- This Code internally called by Dotnet Project For Generate Barcode.
